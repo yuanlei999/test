@@ -1,4 +1,8 @@
 - Spring Bean
+    - [环境搭建](/book/ch-01/第一章-容器环境搭建及基本使用.md)
+    - [IOC核心类](/book/ch-02/第二章-IoC核心类.md)
+    - [IOC读取与注册](/book/ch-03/第三章-IoC资源读取及注册.md)
+    - [spring-ioc章节规划](/book/Spring-IoC章节规划.md)
     - [BeanInfoFactory](/docs/beans/BeanInfoFactory/readme.md)
         - [Spring-BeanInfoFactory](/docs/beans/BeanInfoFactory/Spring-BeanInfoFactory.md)
         - [Spring-ExtendedBeanInfo](/docs/beans/BeanInfoFactory/Spring-ExtendedBeanInfo.md)
