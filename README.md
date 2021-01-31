@@ -2,12 +2,16 @@
 ## 项目介绍
 - 本项目为 Spring 源码分析项目, 本仓库源码均来自**v5.2.3**版本, 源码注释仓库请查看[gitee](https://gitee.com/SourceHot/spring-framework-read)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7d4d612b-0d73-47e7-a4bf-2c8e9da26bbb/deploy-status)](https://app.netlify.com/sites/huifer-spring-analysis/deploys)
-- Netlify: https://huifer-spring-analysis.netlify.app
+[![Netlify Status](https://yuanlei999.github.io/test/#/](https://yuanlei999.github.io/test/#/)
+- Netlify: https://yuanlei999.github.io/test/#/
     
 ## 目录
 
 ### SpringBean相关分析
+- [环境搭建](/book/ch-01/第一章-容器环境搭建及基本使用.md)
+    - [IOC核心类](/book/ch-02/第二章-IoC核心类.md)
+    - [IOC读取与注册](/book/ch-03/第三章-IoC资源读取及注册.md)
+    - [spring-ioc章节规划](/book/Spring-IoC章节规划.md)
 #### Spring propertyEditor 相关接口分析
 
 - [propertyEditor属性接口](/docs/beans/propertyEditor/Readme.md)
