@@ -20,5 +20,6 @@
 
 ```
 
+![classpathXml](/docs/images/ClasspathXmlApplicationContext.png)
 
 - 关于 `refresh` 方法查看[这篇文章](/docs/core/context/ApplicationContext/Spring-AbstractApplicationContext.md)
