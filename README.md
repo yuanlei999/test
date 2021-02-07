@@ -5,7 +5,7 @@
 [![Netlify Status](https://yuanlei999.github.io/test/#/](https://yuanlei999.github.io/test/#/)
 - Netlify: https://yuanlei999.github.io/test/#/
 
-![jvm内存模型](https://www.jianshu.com/p/76959115d486)
+[jvm内存模型](https://www.jianshu.com/p/76959115d486)
     
 ## 目录
 
